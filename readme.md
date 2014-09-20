@@ -8,4 +8,6 @@ Visit [digitalvapor.github.io/kingdomplantar](https://digitalvapor.github.io/kin
 
 Generated with [Minecraft Overviewer](https://github.com/overviewer/Minecraft-Overviewer). The seed was `Professor Layton` and I highly recommend it; so many deep mines, chasms, plenty of villages if that's a thing you care about, and a ridiculously awesome mountain that from this orthographic view you can't see the beautiful waterfalls and my balconies I added.
 
-Visit the [extras](https://github.com/digitalvapor/kingdomplantar/tree/extra) branch for my [config file](https://github.com/digitalvapor/kingdomplantar/blob/extra/overview_config), and any extra assets that I used.
+See [master branch](https://github.com/digitalvapor/kingdomplantar/tree/master) for world.
+
+See [overview_config.py](https://gist.github.com/digitalvapor/a8cf4a9bb3bd9c5f2bd4) for my config file.

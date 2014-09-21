@@ -1,6 +1,6 @@
 var overviewerConfig = {
     "worlds": [
-        "world"
+        "Kingdom Plantar"
     ], 
     "tilesets": [
         {
@@ -10,19 +10,19 @@ var overviewerConfig = {
                 515
             ], 
             "isOverlay": false, 
-            "last_rendertime": 1410965286, 
-            "name": "Overviewer Render (lighting)", 
+            "last_rendertime": 1411313091, 
+            "name": "Rendering of our world from NE", 
             "poititle": "Markers", 
             "north_direction": 0, 
             "minZoom": 0, 
             "bgcolor": "#1a1a1a", 
-            "zoomLevels": 7, 
+            "zoomLevels": 8, 
             "base": "", 
             "imgextension": "png", 
             "defaultZoom": 1, 
-            "world": "world", 
-            "maxZoom": 7, 
-            "path": "world-lighting", 
+            "world": "Kingdom Plantar", 
+            "maxZoom": 8, 
+            "path": "normalrender", 
             "showlocationmarker": true
         }
     ], 
@@ -60,6 +60,6 @@ var overviewerConfig = {
             67, 
             94
         ], 
-        "cacheTag": "1411165611"
+        "cacheTag": "1411313462"
     }
 };

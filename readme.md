@@ -11,3 +11,5 @@ Generated with [Minecraft Overviewer](https://github.com/overviewer/Minecraft-Ov
 See [master branch](https://github.com/digitalvapor/kingdomplantar/tree/master) for world.
 
 See [overview_config.py](https://gist.github.com/digitalvapor/a8cf4a9bb3bd9c5f2bd4) for my config file.
+
+See [server.properties](https://gist.github.com/digitalvapor/ba1ddffb4b6770558aa8) for our current server properties.

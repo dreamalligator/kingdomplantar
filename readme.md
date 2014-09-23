@@ -6,10 +6,12 @@ Visit [digitalvapor.github.io/kingdomplantar](https://digitalvapor.github.io/kin
 
 ![kingdom plantar](plantar.png)
 
-Generated with [Minecraft Overviewer](https://github.com/overviewer/Minecraft-Overviewer). The seed was `Professor Layton` and I highly recommend it; so many deep mines, chasms, plenty of villages if that's a thing you care about, and a ridiculously awesome mountain that from this orthographic view you can't see the beautiful waterfalls and my balconies I added.
+Generated with [Minecraft Overviewer](https://github.com/overviewer/Minecraft-Overviewer). The seed was `Professor Layton` and I highly recommend it; so many deep mines, chasms, plenty of villages if that's a thing you care about, ridiculously awesome mountains, and floating islands.
 
-See [master branch](https://github.com/digitalvapor/kingdomplantar/tree/master) for world.
+See [world branch](https://github.com/digitalvapor/kingdomplantar/tree/world) for world.
 
-See [overview_config.py](https://gist.github.com/digitalvapor/a8cf4a9bb3bd9c5f2bd4) for my config file.
+See [overview_config.py](https://gist.github.com/digitalvapor/a8cf4a9bb3bd9c5f2bd4) for my config file. It picks up on some words like 'town', 'tower', etc to change icons.
 
-See [server.properties](https://gist.github.com/digitalvapor/ba1ddffb4b6770558aa8) for our current server properties.
+See [server.properties](https://gist.github.com/digitalvapor/ba1ddffb4b6770558aa8) for our current server properties. Requires `optipng` (`apt-get install optipng`), or comment-out the `optimizeimg` line.
+
+We're using a an [forked irc bot](https://github.com/digitalvapor/minecraft_irc_chat) so you can talk to us at [#kingdomplantar]( https://webchat.freenode.net/?channels=kingdomplantar). Not two-way communication yet.

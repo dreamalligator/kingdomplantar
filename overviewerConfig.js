@@ -10,8 +10,8 @@ var overviewerConfig = {
                 515
             ], 
             "isOverlay": false, 
-            "last_rendertime": 1411313091, 
-            "name": "Rendering of our world from NE", 
+            "last_rendertime": 1411457205, 
+            "name": "SW view of the kingdom", 
             "poititle": "Markers", 
             "north_direction": 0, 
             "minZoom": 0, 
@@ -22,7 +22,29 @@ var overviewerConfig = {
             "defaultZoom": 1, 
             "world": "Kingdom Plantar", 
             "maxZoom": 8, 
-            "path": "normalrender", 
+            "path": "normalrender0", 
+            "showlocationmarker": true
+        }, 
+        {
+            "spawn": [
+                -243, 
+                64, 
+                515
+            ], 
+            "isOverlay": false, 
+            "last_rendertime": 1411457205, 
+            "name": "NE view of the kingdom", 
+            "poititle": "Markers", 
+            "north_direction": 2, 
+            "minZoom": 0, 
+            "bgcolor": "#1a1a1a", 
+            "zoomLevels": 8, 
+            "base": "", 
+            "imgextension": "png", 
+            "defaultZoom": 1, 
+            "world": "Kingdom Plantar", 
+            "maxZoom": 8, 
+            "path": "normalrender1", 
             "showlocationmarker": true
         }
     ], 
@@ -60,6 +82,6 @@ var overviewerConfig = {
             67, 
             94
         ], 
-        "cacheTag": "1411313462"
+        "cacheTag": "1411459146"
     }
 };

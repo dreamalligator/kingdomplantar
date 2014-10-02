@@ -1,6 +1,8 @@
 var overviewerConfig = {
     "worlds": [
-        "Kingdom Plantar"
+        "Kingdom Plantar", 
+        "Kingdom Plantar - overworld", 
+        "Kingdom Plantar - nether"
     ], 
     "tilesets": [
         {
@@ -10,7 +12,7 @@ var overviewerConfig = {
                 515
             ], 
             "isOverlay": false, 
-            "last_rendertime": 1411457205, 
+            "last_rendertime": 1412228399, 
             "name": "SW view of the kingdom", 
             "poititle": "Markers", 
             "north_direction": 0, 
@@ -32,7 +34,29 @@ var overviewerConfig = {
                 515
             ], 
             "isOverlay": false, 
-            "last_rendertime": 1411457205, 
+            "last_rendertime": 1412228399, 
+            "name": "Caves", 
+            "poititle": "Markers", 
+            "north_direction": 0, 
+            "minZoom": 0, 
+            "bgcolor": "#1a1a1a", 
+            "zoomLevels": 8, 
+            "base": "", 
+            "imgextension": "png", 
+            "defaultZoom": 1, 
+            "world": "Kingdom Plantar - overworld", 
+            "maxZoom": 8, 
+            "path": "normalrender0caves", 
+            "showlocationmarker": true
+        }, 
+        {
+            "spawn": [
+                -243, 
+                64, 
+                515
+            ], 
+            "isOverlay": false, 
+            "last_rendertime": 1412228399, 
             "name": "NE view of the kingdom", 
             "poititle": "Markers", 
             "north_direction": 2, 
@@ -45,6 +69,42 @@ var overviewerConfig = {
             "world": "Kingdom Plantar", 
             "maxZoom": 8, 
             "path": "normalrender1", 
+            "showlocationmarker": true
+        }, 
+        {
+            "spawn": "false", 
+            "isOverlay": false, 
+            "last_rendertime": 1411973113, 
+            "name": "Nether", 
+            "poititle": "Markers", 
+            "north_direction": 0, 
+            "minZoom": 0, 
+            "bgcolor": "#1a1a1a", 
+            "zoomLevels": 7, 
+            "base": "", 
+            "imgextension": "png", 
+            "defaultZoom": 1, 
+            "world": "Kingdom Plantar - nether", 
+            "maxZoom": 7, 
+            "path": "nether0", 
+            "showlocationmarker": true
+        }, 
+        {
+            "spawn": "false", 
+            "isOverlay": false, 
+            "last_rendertime": 1411973113, 
+            "name": "Nether Cave Render", 
+            "poititle": "Markers", 
+            "north_direction": 0, 
+            "minZoom": 0, 
+            "bgcolor": "#1a1a1a", 
+            "zoomLevels": 7, 
+            "base": "", 
+            "imgextension": "png", 
+            "defaultZoom": 1, 
+            "world": "Kingdom Plantar - nether", 
+            "maxZoom": 7, 
+            "path": "nethercave", 
             "showlocationmarker": true
         }
     ], 
@@ -82,6 +142,6 @@ var overviewerConfig = {
             67, 
             94
         ], 
-        "cacheTag": "1411459146"
+        "cacheTag": "1412229378"
     }
 };

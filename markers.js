@@ -1,51 +1,44 @@
 var markers={
   "normalrender0": [
     {
-      "groupName": "sinesdbf5_dd41", 
+      "groupName": "sines3ef5_4431", 
       "icon": "signpost_icon.png", 
       "createInfoWindow": true, 
       "displayName": "sines", 
-      "checked": false
+      "checked": true
     }, 
     {
-      "groupName": "playersde05_dd41", 
+      "groupName": "players4005_4431", 
       "icon": "signpost_icon.png", 
       "createInfoWindow": true, 
       "displayName": "players", 
-      "checked": false
+      "checked": true
     }, 
     {
-      "groupName": "spawns21f4_dd41", 
+      "groupName": "spawnsbff4_4431", 
       "icon": "signpost_icon.png", 
       "createInfoWindow": true, 
       "displayName": "spawns", 
-      "checked": false
-    }, 
-    {
-      "groupName": "harborsde14_dd41", 
-      "icon": "signpost_icon.png", 
-      "createInfoWindow": true, 
-      "displayName": "harbors", 
       "checked": false
     }
   ], 
   "normalrender1": [
     {
-      "groupName": "sinesdbf5_dd41", 
+      "groupName": "sines3ef5_4431", 
       "icon": "signpost_icon.png", 
       "createInfoWindow": true, 
       "displayName": "sines", 
-      "checked": false
+      "checked": true
     }, 
     {
-      "groupName": "playersde05_dd41", 
+      "groupName": "players4005_4431", 
       "icon": "signpost_icon.png", 
       "createInfoWindow": true, 
       "displayName": "players", 
-      "checked": false
+      "checked": true
     }, 
     {
-      "groupName": "spawns21f4_dd41", 
+      "groupName": "spawnsbff4_4431", 
       "icon": "signpost_icon.png", 
       "createInfoWindow": true, 
       "displayName": "spawns", 
